@@ -1,6 +1,6 @@
-# Hi, I'm Amit K 👋
+# Hi, I'm Amit Kaushik 👋
 
-### Senior Java / Data Platform Engineer | Distributed Systems | GenAI & RAG
+### Senior Java/ Data system Engineer / Data Platform Engineer | Distributed Systems | GenAI & RAG
 
 **13+ years of software engineering experience** building enterprise applications, data integration platforms, APIs, and cloud-based data workloads.
 
@@ -283,4 +283,4 @@ I'm continuously strengthening my skills in:
 
 I'm always interested in connecting with engineers, architects, recruiters, and teams working on **backend engineering, data platforms, distributed systems, and GenAI**.
 
-* 💼 LinkedIn: **[Connect with me](https://w)**
+* 💼 LinkedIn: **[Connect with me](https://www.linkedin.com/in/amit-kaushik-ak)**
